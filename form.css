@@ -1,0 +1,20 @@
+#container {
+  width:auto;
+  margin:0 auto;
+  box-shadow:0 0 1em #00FFFF;
+}
+img {
+  width: 1300px;
+  height: 200px;
+}
+h1{
+ color: red;
+ font-family: times;
+ }
+body{
+ color: black;
+ background-color: #00BFFF;
+    }
+table{
+ background: transparent;
+}
